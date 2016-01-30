@@ -7,17 +7,17 @@ Event Template! (View raw for copy & paste-ability)
 
 * Venue liaison: 
 * Speaker wrangler:
-* Attendee question answerer:
+* Meetup poster / question answerer:
 * Emcee: 
-* Online content wrangler: 
+
 
 ### Planning Checklist :heavy_check_mark: 
 
 - [ ] Date picked
 - [ ] Venue and sponsor found
 - [ ] 5-7 min speaking slot filled
-- [ ] 20 min speaking slot #1 filled
-- [ ] 20 min speaking slot #2 filled
+- [ ] 20 min speaking slot no. 1 filled
+- [ ] 20 min speaking slot no. 2 filled
 - [ ] Event posted to Meetup
 - [ ] Food / drinks confirmed
 - [ ] Emcee confirmed
