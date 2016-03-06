@@ -1,35 +1,17 @@
-# organizing
-The Future is Ours
+Welcome to SF.rb's organizing repo. We use issues to keep track of upcoming meetups.
 
-Event Template! (View raw for copy & paste-ability)
+`ISSUE_TEMPLATE.md` has the template that we use to start planning new meetups.
 
-### Who's doing what? :fist: 
+---
 
-* Venue liaison: 
-* Speaker wrangler:
-* Meetup poster / question answerer:
-* Emcee: 
+SF.rb (pronounced “sf dot rb”) is a monthly meetup where Rubyists and their friends come to talk about programming. We host short (5-7 minute) and long (20 min) talks on topics ranging from Ruby itself to Ruby-adjacent topics, like devops, front end, human beings, or others!
 
+Speakers of all programming and speaking experience levels are welcome to submit talks, and we’re especially excited to host speakers who come from populations that are underrepresented in tech.
 
-### Planning Checklist :heavy_check_mark: 
+We are dedicated to a harassment-free experience for everyone. All attendees are expected to abide by the SF.rb code of conduct. The full Code of Conduct can be found here: http://sfdotrb.github.io/
 
-- [ ] Date picked
-- [ ] Venue and sponsor found
-- [ ] 5-7 min speaking slot filled
-- [ ] 20 min speaking slot no. 1 filled
-- [ ] 20 min speaking slot no. 2 filled
-- [ ] Event posted to Meetup
-- [ ] Food / drinks confirmed
-- [ ] Emcee confirmed
-- [ ] Security / checkins wrangler confirmed
+---
 
-#### Week-of Checklist
+You should submit a talk proposal!
 
-- [ ] Reconfirm food and drink plans
-- [ ] Reconfirm speaker arrival time and tech needs
-- [ ] Confirm who's got what in running the event
-- [ ] Go over physical object inventory:
-  - [ ] Name tags
-  - [ ] Ruby Cutie stickers
-- [ ] Create welcome slide with suggested question topic
-
+http://tinyurl.com/sf-rb-cfp
