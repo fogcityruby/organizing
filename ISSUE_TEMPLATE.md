@@ -17,6 +17,8 @@
 - [ ] Emcee confirmed
 - [ ] Security / checkins wrangler confirmed
 
+---
+
 #### Week-of Checklist
 
 ##### Speaker Wrangler
