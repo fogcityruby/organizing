@@ -29,7 +29,6 @@
 - [ ] Send security check-in list day before - make sure list includes wait-listed folks and speakers
 
 ##### Meetup Poster/Question Answerer
-- [ ] Close wait list the day before
 - [ ] Send out RSVP reminder email & final logistics reminder
 - [ ] Send followup thank you email after the event
 
